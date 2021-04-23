@@ -1,0 +1,8 @@
+git init
+ls -a (to see hidden file)
+git status 
+git add <file>(staging file for commit)
+git status(red coloured staged file)
+git commit -m "message"
+git status(green coloured staged file)
+git log(shows all commit)
